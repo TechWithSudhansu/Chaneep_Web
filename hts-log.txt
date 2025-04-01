@@ -1,0 +1,21 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 31 Mar 2025 09:28:44 at https://www.swapdigit.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.swapdigit.com/ -O1 "C:\My Web Sites\Cdtech final" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:30:04	Error: 	"Not Found" (404) at link https://www.doorsstudio.com/assets/media/86x86/Copy_Writing.png (from https://www.swapdigit.com/)
+09:30:04	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.swapdigit.com/digital-marketing-in-india.php (from https://www.swapdigit.com/)
+09:30:04	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.swapdigit.com/assets/images/blog/eco.png (from https://www.swapdigit.com/)
+09:30:09	Warning: 	Found for https://www.swapdigit.com/schema.org/
+09:30:09	Warning: 	File has moved from https://www.swapdigit.com/schema.org/ to https://swapdigit.com/404.php
+09:30:10	Warning: 	Found for https://www.swapdigit.com/img/
+09:30:10	Warning: 	File has moved from https://www.swapdigit.com/img/ to https://swapdigit.com/404.php
+09:30:23	Warning: 	Retry after error 409 (Conflict) at link https://www.swapdigit.com/contact.php (from https://www.swapdigit.com/terms-conditions)
+09:30:23	Warning: 	Retry after error 409 (Conflict) at link https://www.swapdigit.com/contact.php (from https://www.swapdigit.com/terms-conditions)
+09:30:23	Error: 	"Conflict" (409) after 2 retries at link https://www.swapdigit.com/contact.php (from https://www.swapdigit.com/terms-conditions)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 39 seconds : 225 links scanned, 216 files written (23873806 bytes overall) [21396630 bytes received at 216127 bytes/sec], 3525697 bytes transferred using HTTP compression in 81 files, ratio 26%, 20.6 requests per connection
+(2 errors, 8 warnings, 0 messages)
