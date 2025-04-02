@@ -267,15 +267,15 @@ src="https://www.facebook.com/tr?id=984794403325698&amp;ev=PageView&amp;noscript
 
                                     <ul>
 
-                                        <li><a href="https://www.facebook.com/swapdigit"><i class="ti-facebook"></i></a></li>
+                                        <li><a href="#"><i class="ti-facebook"></i></a></li>
 
-                                        <li><a href="https://twitter.com/swapdigit"><i class="ti-twitter-alt"></i></a></li>
+                                        <li><a href="#"><i class="ti-twitter-alt"></i></a></li>
 
-                                        <li><a href="https://www.instagram.com/swapdigit/"><i class="ti-instagram"></i></a></li>
+                                        <li><a href="#"><i class="ti-instagram"></i></a></li>
 
-                                        <li><a href="https://www.youtube.com/@swapdigit"><i class="ti-youtube"></i></a></li>
+                                        <li><a href="#"><i class="ti-youtube"></i></a></li>
 
-                                        <li><a href="https://www.linkedin.com/company/swapdigit/"><i class="ti-linkedin"></i></a></li>
+                                        <li><a href="#"><i class="ti-linkedin"></i></a></li>
 
                                     </ul>
 
@@ -378,7 +378,7 @@ src="https://www.facebook.com/tr?id=984794403325698&amp;ev=PageView&amp;noscript
 
                                     <li><a href="seo-sem-in-india.html">SEO & SEM</a></li>
 
-                                    <li><a href="mlm-software-in-india.html">MLM Software</a></li>
+                               
 
                                 </ul>
 
@@ -651,7 +651,6 @@ src="https://www.facebook.com/tr?id=984794403325698&amp;ev=PageView&amp;noscript
 
                                     <li><a href="seo-sem-in-india.html">SEO & SEM</a></li>
 
-                                    <li><a href="mlm-software-in-india.html">MLM Software</a></li>
 
                                 </ul>
 
@@ -753,7 +752,7 @@ src="https://www.facebook.com/tr?id=984794403325698&amp;ev=PageView&amp;noscript
 
 </div>
 <div class="col col-lg-9 col-md-9 col-sm-12">
-<p >SwapDigit, aims to provide high quality Software Development, Website Development, Apps Development, Digital Marketing, IT infrastructure Support & Services, <a class=social href="about.html">Readmore...</a> </p>
+<p >Chaneep Web Services, aims to provide high quality Software Development, Website Development, Apps Development, Digital Marketing, IT infrastructure Support & Services, <a class=social href="about.html">Readmore...</a> </p>
 </div>       
 </div>
                                 
@@ -834,15 +833,15 @@ src="https://www.facebook.com/tr?id=984794403325698&amp;ev=PageView&amp;noscript
  
  <li></li>
  
- <li style="font-size: 20px;"><a class=social href="https://www.facebook.com/swapdigit"><i class="ti-facebook"></i></a></li>&nbsp;&nbsp;
+ <li style="font-size: 20px;"><a class=social href="#"><i class="ti-facebook"></i></a></li>&nbsp;&nbsp;
  
- <li style="font-size: 20px;"><a class=social href="https://twitter.com/swapdigit"><i class="ti-twitter-alt"></i></a></li>&nbsp;&nbsp;
+ <li style="font-size: 20px;"><a class=social href="#"><i class="ti-twitter-alt"></i></a></li>&nbsp;&nbsp;
  
- <li style="font-size: 20px;"><a class=social href="https://www.instagram.com/swapdigit/"><i class="ti-instagram"></i></a></li>&nbsp;&nbsp;
+ <li style="font-size: 20px;"><a class=social href="#"><i class="ti-instagram"></i></a></li>&nbsp;&nbsp;
  
- <li style="font-size: 20px;"><a class=social href="https://www.youtube.com/@swapdigit"><i class="ti-youtube"></i></a></li>&nbsp;&nbsp;
+ <li style="font-size: 20px;"><a class=social href="#"><i class="ti-youtube"></i></a></li>&nbsp;&nbsp;
  
- <li style="font-size: 20px;"><a class=social href="https://www.linkedin.com/company/swapdigit/"><i class="ti-linkedin"></i></a></li>
+ <li style="font-size: 20px;"><a class=social href="#"><i class="ti-linkedin"></i></a></li>
  
  </ul>
  
@@ -880,8 +879,7 @@ src="https://www.facebook.com/tr?id=984794403325698&amp;ev=PageView&amp;noscript
 
                                     <li> <i class="fas fa-arrow-right" style="color:#fea815"></i> <a href="seo-sem-in-india.html">SEO & SEM</a></li>
 
-                                    <li> <i class="fas fa-arrow-right" style="color:#fea815"></i> <a href="mlm-software-in-india.html">MLM Software</a></li>
-
+                           
                                 </ul>
 
                             </div>
